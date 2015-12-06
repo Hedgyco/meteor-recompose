@@ -1,6 +1,7 @@
 {
   "description": "RxJS utilities for React and Recompose.",
   "name": "meteor-recompose",
+  "version": "0.0.1",
   "keywords": [
     "recompose",
     "rxjs",
@@ -17,13 +18,5 @@
   ],
   "dependencies": {
     "lodash": "^3.0.0"
-  },
-  "peerDependencies": {
-    "recompose": "^0.9.1",
-    "react": "^0.14.0",
-    "rx": "^4.0.0"
-  },
-  "devDependencies": {
-    "rx": "^4.0.0"
   }
 }
